@@ -1,0 +1,3 @@
+C:\Users\HP\source\repos\NodejsConsoleAppHTD\NodejsConsoleAppHTD\obj\Debug\NodejsConsoleAppHTD.njsproj.AssemblyReference.cache
+C:\Users\HP\source\repos\NodejsConsoleAppHTD\NodejsConsoleAppHTD\obj\Debug\NodejsConsoleAppHTD.njsproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\NodejsConsoleAppHTD\NodejsConsoleAppHTD\bin\Microsoft.NodejsTools.WebRole.dll
